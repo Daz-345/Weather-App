@@ -32,14 +32,6 @@ This is a weather website built using HTML, CSS, and JavaScript, and utilizes th
 4. Click on the "Get Weather" button to fetch the weather information for the entered city.
 5. The current weather information will be displayed on the screen along with the five-day weather forecast.
 
-## ****Preview****
-
-![Grant Access](/assets/Screenshot%202023-04-08%20140542.png)
-
-![Search Location](/assets/Screenshot%202023-04-08%20140728.png)
-
-![Weather Information](/assets/Patna.png)
-
 ## **Usage**
 
 Enter the name of the city you want to search for in the search bar and press the Enter key or click the search button. The current weather data for the city will be displayed on the page.
@@ -48,7 +40,7 @@ You can also get Weather data by Grant Access to your Location.
 
 ## **Credits**
 
-The weather website was created by [Raviraj Kumar](https://www.linkedin.com/in/raviraj-kumar-019956225/). The following resources were used in its creation:
+The weather website was created by Faiz Md. Danish. The following resources were used in its creation:
 
 - OpenWeather API
 - Google Fonts
